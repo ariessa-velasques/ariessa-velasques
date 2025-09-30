@@ -25,7 +25,6 @@ Oracle | Postgres | MySQL | SQLite | Firebase
 
 - Projetos web modernos e responsivos
 - Protótipos de jogos e experimentos interativos
-- Muitas ideias, códigos e, quem sabe, alguns memes
 
 ## 📫 Vamos conversar?
 

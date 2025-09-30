@@ -29,7 +29,7 @@ Oracle | Postgres | MySQL | SQLite | Firebase
 
 ## 📫 Vamos conversar?
 
-[LinkedIn](https://www.linkedin.com/in/ariessa-velasques/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ariessa-velasques/)
 
 ---
 

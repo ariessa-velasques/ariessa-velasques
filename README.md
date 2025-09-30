@@ -1,6 +1,6 @@
 <!-- Header com imagem do Pep -->
 <p align="center">
-  <img src="pep.jpg" alt="Pep no PC" width="300"/>
+  <img src="Pep.jpg" alt="Pep no PC" width="300"/>
 </p>
 
 # Olá, eu sou Ariessa Velasques! 👋

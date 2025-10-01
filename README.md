@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pep.png" alt="Pep no PC" width="300"/>
+  <img src="Pep.png" alt="Pep no PC" width="1000"/>
 </p>
 
 # Olá, eu sou Ariessa Velasques! 👋

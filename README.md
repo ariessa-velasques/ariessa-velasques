@@ -1,32 +1,11 @@
-<p align="center">
-  <img src="Pep.png" alt="Pep no PC" width="1000"/>
-</p>
+```diff
+@@ Desenvolvedora Fullstack & Game Designer em formação @@
 
-# Olá, eu sou Ariessa Velasques! 👋
-
-Sou estudante de Engenharia de Software na Universidade Federal do Pampa (UNIPAMPA), e uma verdadeira entusiasta de tecnologia. Minha paixão é construir soluções completas como desenvolvedora fullstack e dar vida a mundos interativos através da criação de jogos! 🚀
-
----
-
-### 🚦 Sobre Mim
-
-- 🎓 Cursando o 6º semestre de **Engenharia de Software**.
-- 👩‍💻 Apaixonada por criar **sites e aplicações interativas**, transformando ideias em experiências digitais.
-- 🎮 Gamer dedicada! Adoro a precisão dos **jogos de ritmo** e a imersão de **RPGs de grinding**.
-- 🐱 Tenho vários gatos, os melhores companheiros de programação (quando não estão deitados no teclado).
-- 🐸 Colecionadora de sapos (digitais, por enquanto!).
-
----
-
-### 💡 Minhas Explorações e Projetos
-
-Minha curiosidade me levou a experimentar um pouco de tudo no universo do desenvolvimento. Aqui estão algumas das minhas aventuras:
-
--   **Narrativas Interativas:** Criei visual novels com **Ren'Py** e **Python**, unindo roteiro e lógica de programação para contar histórias.
--   **Desenvolvimento de Mundos:** Modelei e programei mapas e experiências no **Roblox Studio** utilizando **Lua**.
--   **Modding de Jogos:** Aventurei-me na modificação de jogos como **Minecraft**, personalizando códigos para criar novas funcionalidades.
--   **Criação de Jogos 2D:** Explorei a construção de RPGs clássicos com ferramentas como o **RPG Maker**.
-
++ Estudante de Eng. de Software na UNIPAMPA 🇧🇷
+- Movida a jogos de ritmo, gatos 🐱 e sapos 🐸
+! Criando com Python, Lua, Ren'Py e Web
+# Explorando Visual Novels, RPGs e mundos interativos
+```
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -51,5 +30,3 @@ Minha curiosidade me levou a experimentar um pouco de tudo no universo do desenv
 Fique à vontade para se conectar comigo e trocar ideias!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ariessa-velasques/)
-
-> "Codando entre sapos, gatos e uns bugs perdidos pelo caminho." 🐸🐱

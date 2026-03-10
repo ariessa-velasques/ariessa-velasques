@@ -26,11 +26,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariessa-velasques&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ### 📫 Vamos Conversar?
 
 Fique à vontade para se conectar comigo e trocar ideias!

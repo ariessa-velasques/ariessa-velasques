@@ -14,7 +14,7 @@
 
 A desktop tool (Electron + React) that lets writers build entire visual novels through a graphical interface, no code required: visual scene editing, a character roster with expressions, and a node-graph branching editor (React Flow) to build multi-path stories. The finished game exports as a standalone executable for Windows, Linux or macOS.
 
-🔗 [View repository]([#](https://github.com/ariessa-velasques/prototipo-vn-engine))
+🔗 [View repository](https://github.com/ariessa-velasques/prototipo-vn-engine)
 
 ### 🛠️ Development
 
